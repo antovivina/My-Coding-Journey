@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/antovivina/My-Coding-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0392-is-subsequence) |
 ## Counting
