@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
