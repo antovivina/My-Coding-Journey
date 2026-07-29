@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/antovivina/My-Coding-Journey/tree/master/0031-next-permutation) |
+| [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
