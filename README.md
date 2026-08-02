@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
