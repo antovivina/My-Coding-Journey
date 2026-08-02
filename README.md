@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
@@ -73,10 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antovivina/My-Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antovivina/My-Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
