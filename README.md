@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/antovivina/My-Coding-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -91,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
