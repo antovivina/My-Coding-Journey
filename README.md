@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antovivina/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/antovivina/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/antovivina/My-Coding-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antovivina/My-Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
