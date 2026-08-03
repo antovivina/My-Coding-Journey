@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        for(char ch='a';ch<='z';ch++){
-             bool found=false;
-            for(int i=0;i<sentence.size();i++){
-                if(sentence[i]==ch){
-                    found=true;
-                }
-            }
-            if(found==false){
+        vector<int>freqarr(26,0);
+        for(int i=0;i<sentence.size();i++){
+            freqarr[sentence[i]-'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(freqarr[i]==0){
                 return false;
             }
         }
