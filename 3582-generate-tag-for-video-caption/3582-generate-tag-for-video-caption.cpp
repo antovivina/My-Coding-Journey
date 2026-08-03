@@ -1,10 +1,10 @@
 class Solution {
 public:
-    string generateTag(string caption) {
+    string generateTag(string s) {
         string res="#";
         string word;
         vector<string>ans;
-        stringstream ss(caption);
+        stringstream ss(s);
         while(ss>>word){
             ans.push_back(word);
         }
@@ -15,23 +15,17 @@ public:
             res+=tolower(ans[0][i]);
         }
         for(int i=1;i<ans.size();i++){
-            bool first = true;
-
-for (int j = 0; j < ans[i].size(); j++) {
-
-    if (isalpha(ans[i][j])) {
-
-        if (first == true) {
-            res += toupper(ans[i][j]);
-            first = false;
-        }
-        else {
-            res += tolower(ans[i][j]);
-        }
-
-    }
-
-}
+            bool num=true;
+            for(int j=0;j<ans[i].size();j++){
+                if(isalpha(ans[i][j])){
+                    if(num==true){
+                        res+=toupper(ans[i][j]);
+                        num=false;
+                    }else{
+                        res+=tolower(ans[i][j]);
+                    }
+                }
+            }
         }
         if(res.size()>100){
             res=res.substr(0,100);
