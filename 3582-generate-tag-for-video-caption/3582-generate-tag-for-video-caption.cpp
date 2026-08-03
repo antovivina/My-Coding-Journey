@@ -15,10 +15,23 @@ public:
             res+=tolower(ans[0][i]);
         }
         for(int i=1;i<ans.size();i++){
-            res+=toupper(ans[i][0]);
-            for(int j=1;j<ans[i].size();j++){
-                res+=tolower(ans[i][j]);
-            }
+            bool first = true;
+
+for (int j = 0; j < ans[i].size(); j++) {
+
+    if (isalpha(ans[i][j])) {
+
+        if (first == true) {
+            res += toupper(ans[i][j]);
+            first = false;
+        }
+        else {
+            res += tolower(ans[i][j]);
+        }
+
+    }
+
+}
         }
         if(res.size()>100){
             res=res.substr(0,100);
