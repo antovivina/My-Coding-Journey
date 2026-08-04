@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1470-shuffle-the-array) |
+| [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/antovivina/My-Coding-Journey/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antovivina/My-Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antovivina/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3110-score-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
