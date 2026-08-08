@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1470-shuffle-the-array) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/antovivina/My-Coding-Journey/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
 ## Heap (Priority Queue)
