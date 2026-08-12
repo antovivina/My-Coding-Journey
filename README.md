@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
 ## Prefix Sum
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
