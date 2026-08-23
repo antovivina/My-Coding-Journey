@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antovivina/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3110-score-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
 ## Counting
