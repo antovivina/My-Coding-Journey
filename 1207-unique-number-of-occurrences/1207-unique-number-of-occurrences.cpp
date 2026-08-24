@@ -9,7 +9,7 @@ public:
         for(unordered_map<int,int>::iterator i=freqarr.begin();i!=freqarr.end();i++){
             ans.push_back(i->second);
         }
-        for(int i=0;i<ans.size()-1;i++){
+        for(int i=0;i<ans.size();i++){
             for(int j=i+1;j<ans.size();j++){
                 if(ans[i]==ans[j]){
                     return false;
