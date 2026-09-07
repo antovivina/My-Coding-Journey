@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/antovivina/My-Coding-Journey/tree/master/2119-a-number-after-a-double-reversal) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/antovivina/My-Coding-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/antovivina/My-Coding-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3099-harshad-number](https://github.com/antovivina/My-Coding-Journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
