@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/antovivina/My-Coding-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
