@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -307,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
