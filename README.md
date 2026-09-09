@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/antovivina/My-Coding-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antovivina/My-Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
