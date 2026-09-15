@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/antovivina/My-Coding-Journey/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/antovivina/My-Coding-Journey/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antovivina/My-Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/antovivina/My-Coding-Journey/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
 | [1446-consecutive-characters](https://github.com/antovivina/My-Coding-Journey/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
