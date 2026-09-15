@@ -3,7 +3,6 @@ class Solution {
         int n=nums.length;
         double sum=0;
         double max=0;
-        double avg=0;
         for(int i=0;i<k;i++){
             sum+=nums[i];
         }
