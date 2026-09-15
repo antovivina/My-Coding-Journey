@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/antovivina/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/antovivina/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antovivina/My-Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0414-third-maximum-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antovivina/My-Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/antovivina/My-Coding-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/antovivina/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antovivina/My-Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/0389-find-the-difference) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 ## Brainteaser
 |  |
@@ -333,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
