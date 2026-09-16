@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/antovivina/My-Coding-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/antovivina/My-Coding-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/0258-add-digits) |
@@ -382,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antovivina/My-Coding-Journey/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/antovivina/My-Coding-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
