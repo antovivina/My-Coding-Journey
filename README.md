@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
 ## Hash Table
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
