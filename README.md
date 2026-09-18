@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/antovivina/My-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/antovivina/My-Coding-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/antovivina/My-Coding-Journey/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/antovivina/My-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/antovivina/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/antovivina/My-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/1572-matrix-diagonal-sum) |
