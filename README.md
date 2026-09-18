@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antovivina/My-Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
