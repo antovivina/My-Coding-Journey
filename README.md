@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/antovivina/My-Coding-Journey/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/antovivina/My-Coding-Journey/tree/master/3136-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
 ## Counting
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
 ## Heap (Priority Queue)
 |  |
