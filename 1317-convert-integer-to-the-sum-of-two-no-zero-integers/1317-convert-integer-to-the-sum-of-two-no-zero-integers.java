@@ -6,8 +6,6 @@ class Solution {
             if(i+j==n&&!String.valueOf(i).contains("0")&&!String.valueOf(j).contains("0")){
                 arr[0]=i;
                 arr[1]=j;
-            }else{
-                continue;
             }
         }
         return arr;
