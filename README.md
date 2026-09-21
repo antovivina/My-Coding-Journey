@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/antovivina/My-Coding-Journey/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/antovivina/My-Coding-Journey/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/antovivina/My-Coding-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2119-a-number-after-a-double-reversal](https://github.com/antovivina/My-Coding-Journey/tree/master/2119-a-number-after-a-double-reversal) |
