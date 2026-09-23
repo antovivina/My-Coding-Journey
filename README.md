@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/antovivina/My-Coding-Journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/antovivina/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
+| [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/antovivina/My-Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/antovivina/My-Coding-Journey/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1446-consecutive-characters](https://github.com/antovivina/My-Coding-Journey/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/antovivina/My-Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/antovivina/My-Coding-Journey/tree/master/0704-binary-search) |
+| [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/antovivina/My-Coding-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 ## Bucket Sort
 |  |
 | ------- |
