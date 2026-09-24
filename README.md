@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/antovivina/My-Coding-Journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antovivina/My-Coding-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antovivina/My-Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
