@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/antovivina/My-Coding-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/antovivina/My-Coding-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/antovivina/My-Coding-Journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
