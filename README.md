@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/antovivina/My-Coding-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/antovivina/My-Coding-Journey/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
@@ -462,10 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antovivina/My-Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/antovivina/My-Coding-Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antovivina/My-Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/antovivina/My-Coding-Journey/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
