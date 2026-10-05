@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
+| [3794-reverse-string-prefix](https://github.com/antovivina/My-Coding-Journey/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/antovivina/My-Coding-Journey/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/antovivina/My-Coding-Journey/tree/master/3582-generate-tag-for-video-caption) |
+| [3794-reverse-string-prefix](https://github.com/antovivina/My-Coding-Journey/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
