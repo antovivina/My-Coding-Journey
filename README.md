@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/antovivina/My-Coding-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/antovivina/My-Coding-Journey/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/antovivina/My-Coding-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/antovivina/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antovivina/My-Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/antovivina/My-Coding-Journey/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antovivina/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/antovivina/My-Coding-Journey/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0392-is-subsequence) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/antovivina/My-Coding-Journey/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/antovivina/My-Coding-Journey/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
