@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/antovivina/My-Coding-Journey/tree/master/3668-restore-finishing-order) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/antovivina/My-Coding-Journey/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/antovivina/My-Coding-Journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/antovivina/My-Coding-Journey/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
