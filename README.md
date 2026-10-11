@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/antovivina/My-Coding-Journey/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/antovivina/My-Coding-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/antovivina/My-Coding-Journey/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/antovivina/My-Coding-Journey/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/2485-find-the-pivot-integer) |
