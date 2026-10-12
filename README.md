@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/antovivina/My-Coding-Journey/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/antovivina/My-Coding-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/antovivina/My-Coding-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/antovivina/My-Coding-Journey/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/antovivina/My-Coding-Journey/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/antovivina/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
