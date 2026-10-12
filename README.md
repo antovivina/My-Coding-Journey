@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/antovivina/My-Coding-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/antovivina/My-Coding-Journey/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/3731-find-missing-elements) |
