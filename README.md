@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/antovivina/My-Coding-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/antovivina/My-Coding-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/antovivina/My-Coding-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/antovivina/My-Coding-Journey/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/antovivina/My-Coding-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/antovivina/My-Coding-Journey/tree/master/3516-find-closest-person) |
