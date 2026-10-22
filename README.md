@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/antovivina/My-Coding-Journey/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/antovivina/My-Coding-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/antovivina/My-Coding-Journey/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/antovivina/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1446-consecutive-characters](https://github.com/antovivina/My-Coding-Journey/tree/master/1446-consecutive-characters) |
+| [1768-merge-strings-alternately](https://github.com/antovivina/My-Coding-Journey/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antovivina/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
