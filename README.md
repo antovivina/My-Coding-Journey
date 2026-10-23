@@ -628,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/antovivina/My-Coding-Journey/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/antovivina/My-Coding-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/antovivina/My-Coding-Journey/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
