@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/antovivina/My-Coding-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/antovivina/My-Coding-Journey/tree/master/1688-count-of-matches-in-tournament) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/antovivina/My-Coding-Journey/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
