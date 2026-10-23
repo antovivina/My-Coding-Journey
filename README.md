@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antovivina/My-Coding-Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antovivina/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2129-capitalize-the-title](https://github.com/antovivina/My-Coding-Journey/tree/master/2129-capitalize-the-title) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/2490-circular-sentence) |
