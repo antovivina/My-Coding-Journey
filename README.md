@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/antovivina/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/antovivina/My-Coding-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/antovivina/My-Coding-Journey/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/antovivina/My-Coding-Journey/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
