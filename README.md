@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/antovivina/My-Coding-Journey/tree/master/2574-left-and-right-sum-differences) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/3467-transform-array-by-parity) |
 | [3663-find-the-least-frequent-digit](https://github.com/antovivina/My-Coding-Journey/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/antovivina/My-Coding-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
