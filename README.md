@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/antovivina/My-Coding-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antovivina/My-Coding-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1470-shuffle-the-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/antovivina/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/antovivina/My-Coding-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/antovivina/My-Coding-Journey/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/antovivina/My-Coding-Journey/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
