@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/2490-circular-sentence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/antovivina/My-Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/antovivina/My-Coding-Journey/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/3110-score-of-a-string) |
