@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/antovivina/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/antovivina/My-Coding-Journey/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/antovivina/My-Coding-Journey/tree/master/0859-buddy-strings) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/antovivina/My-Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/antovivina/My-Coding-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/antovivina/My-Coding-Journey/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/antovivina/My-Coding-Journey/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/antovivina/My-Coding-Journey/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/antovivina/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/antovivina/My-Coding-Journey/tree/master/1208-get-equal-substrings-within-budget) |
