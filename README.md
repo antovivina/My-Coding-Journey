@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/antovivina/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/antovivina/My-Coding-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/antovivina/My-Coding-Journey/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/antovivina/My-Coding-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/antovivina/My-Coding-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
