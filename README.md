@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/antovivina/My-Coding-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/antovivina/My-Coding-Journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/antovivina/My-Coding-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/antovivina/My-Coding-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antovivina/My-Coding-Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/antovivina/My-Coding-Journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/antovivina/My-Coding-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/3024-type-of-triangle) |
