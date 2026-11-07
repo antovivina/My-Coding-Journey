@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/antovivina/My-Coding-Journey/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/antovivina/My-Coding-Journey/tree/master/1051-height-checker) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antovivina/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 ## Brainteaser
 |  |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/antovivina/My-Coding-Journey/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/antovivina/My-Coding-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antovivina/My-Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
@@ -583,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -684,4 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/3024-type-of-triangle) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
