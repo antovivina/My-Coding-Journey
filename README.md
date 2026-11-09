@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/antovivina/My-Coding-Journey/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/antovivina/My-Coding-Journey/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/antovivina/My-Coding-Journey/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/antovivina/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antovivina/My-Coding-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/antovivina/My-Coding-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/antovivina/My-Coding-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/antovivina/My-Coding-Journey/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/antovivina/My-Coding-Journey/tree/master/2974-minimum-number-game) |
 ## Brainteaser
