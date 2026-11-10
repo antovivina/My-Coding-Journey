@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2129-capitalize-the-title](https://github.com/antovivina/My-Coding-Journey/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/antovivina/My-Coding-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/2490-circular-sentence) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/antovivina/My-Coding-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/antovivina/My-Coding-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/antovivina/My-Coding-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Boyer–Moore Majority Vote Algorithm
