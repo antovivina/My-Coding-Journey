@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antovivina/My-Coding-Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/antovivina/My-Coding-Journey/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/antovivina/My-Coding-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/antovivina/My-Coding-Journey/tree/master/2404-most-frequent-even-element) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antovivina/My-Coding-Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/antovivina/My-Coding-Journey/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/antovivina/My-Coding-Journey/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/antovivina/My-Coding-Journey/tree/master/2733-neither-minimum-nor-maximum) |
