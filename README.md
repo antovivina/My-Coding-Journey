@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/antovivina/My-Coding-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/antovivina/My-Coding-Journey/tree/master/2119-a-number-after-a-double-reversal) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/antovivina/My-Coding-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/antovivina/My-Coding-Journey/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/antovivina/My-Coding-Journey/tree/master/1534-count-good-triplets) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/antovivina/My-Coding-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/antovivina/My-Coding-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antovivina/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Boyer–Moore Majority Vote Algorithm
