@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/antovivina/My-Coding-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1037-valid-boomerang](https://github.com/antovivina/My-Coding-Journey/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/antovivina/My-Coding-Journey/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/antovivina/My-Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antovivina/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/antovivina/My-Coding-Journey/tree/master/1037-valid-boomerang) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/antovivina/My-Coding-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
@@ -744,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/antovivina/My-Coding-Journey/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/antovivina/My-Coding-Journey/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
