@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/antovivina/My-Coding-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/antovivina/My-Coding-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/antovivina/My-Coding-Journey/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/antovivina/My-Coding-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antovivina/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/antovivina/My-Coding-Journey/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antovivina/My-Coding-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/antovivina/My-Coding-Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/antovivina/My-Coding-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antovivina/My-Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/antovivina/My-Coding-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/antovivina/My-Coding-Journey/tree/master/1037-valid-boomerang) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/antovivina/My-Coding-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/antovivina/My-Coding-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/antovivina/My-Coding-Journey/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/antovivina/My-Coding-Journey/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/antovivina/My-Coding-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/antovivina/My-Coding-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2706-buy-two-chocolates](https://github.com/antovivina/My-Coding-Journey/tree/master/2706-buy-two-chocolates) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/antovivina/My-Coding-Journey/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antovivina/My-Coding-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
@@ -736,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [3024-type-of-triangle](https://github.com/antovivina/My-Coding-Journey/tree/master/3024-type-of-triangle) |
 ## Merge Sort
 |  |
