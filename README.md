@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/antovivina/My-Coding-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antovivina/My-Coding-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/antovivina/My-Coding-Journey/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/antovivina/My-Coding-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/antovivina/My-Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antovivina/My-Coding-Journey/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/antovivina/My-Coding-Journey/tree/master/0868-binary-gap) |
 | [1486-xor-operation-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/antovivina/My-Coding-Journey/tree/master/1720-decode-xored-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/antovivina/My-Coding-Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
