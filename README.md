@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/antovivina/My-Coding-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antovivina/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/antovivina/My-Coding-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/antovivina/My-Coding-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/antovivina/My-Coding-Journey/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antovivina/My-Coding-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
